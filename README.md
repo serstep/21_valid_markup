@@ -1,6 +1,7 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+Repository contain webpage with corrected markup. All local js and css files were merged for best performance.
+link: https://serstep.github.io/realty/
 
 # Project Goals
 
